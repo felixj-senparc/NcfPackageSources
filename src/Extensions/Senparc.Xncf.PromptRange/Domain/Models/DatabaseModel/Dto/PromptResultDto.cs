@@ -24,7 +24,6 @@ namespace Senparc.Xncf.PromptRange.Models.DatabaseModel.Dto
         /// PromptItem类型的PromptItem
         /// </summary>
         public int PromptItemId { get; set; }
-
         /// <summary>
         /// PromptItem
         /// </summary>

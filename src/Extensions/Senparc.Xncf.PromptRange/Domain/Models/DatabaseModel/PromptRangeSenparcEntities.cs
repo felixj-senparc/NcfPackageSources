@@ -9,7 +9,7 @@ namespace Senparc.Xncf.PromptRange.Models
         public PromptRangeSenparcEntities(DbContextOptions dbContextOptions) : base(dbContextOptions)
         {
         }
-
+        
         /// <summary>
         /// 数据库中的 PromptItems 实体
         /// </summary>
